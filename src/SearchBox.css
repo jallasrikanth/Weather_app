@@ -1,0 +1,13 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 25px;
+}
+/* SearchBox.css */
+.SearchBox {
+    text-align: center;
+}
+
+.SearchBox p {
+    color: red;
+    font-weight: bold;
+}
